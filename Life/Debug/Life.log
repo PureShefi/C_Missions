@@ -1,0 +1,3 @@
+﻿  Life.c
+d:\coding\temp\c\missions\life\life.c(50): warning C4013: 'time' undefined; assuming extern returning int
+  Life.vcxproj -> D:\Coding\temp\C\Missions\Debug\Life.exe

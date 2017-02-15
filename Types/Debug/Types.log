@@ -1,0 +1,13 @@
+﻿  Types.c
+d:\coding\temp\c\missions\types\types.c(9): warning C4022: 'queuePush': pointer mismatch for actual parameter 2
+d:\coding\temp\c\missions\types\types.c(10): warning C4022: 'queuePush': pointer mismatch for actual parameter 2
+  Queue.c
+d:\coding\temp\c\missions\types\queue.c(13): warning C4047: 'return': 'Queue *' differs in levels of indirection from 'int'
+  Node.c
+d:\coding\temp\c\missions\types\node.c(8): warning C4091: 'extern ': ignored on left of 'Node_rec' when no variable is declared
+  List.c
+d:\coding\temp\c\missions\types\list.c(10): warning C4047: 'return': 'List *' differs in levels of indirection from 'int'
+d:\coding\temp\c\missions\types\list.c(56): warning C4098: 'listRemove': 'void' function returning a value
+d:\coding\temp\c\missions\types\list.c(78): warning C4098: 'listRemove': 'void' function returning a value
+  Generating Code...
+  Types.vcxproj -> D:\Coding\temp\C\Missions\Debug\Types.exe
